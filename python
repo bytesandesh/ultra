@@ -1,0 +1,7 @@
+print('sum of number')
+print('enter the first nuber')
+n=input()
+print('enter the second number')
+m=input()
+sum=n+m
+print(sum)
